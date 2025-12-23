@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "754028715568",
+    "project_id": "sporthub-e2d73",
+    "storage_bucket": "sporthub-e2d73.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754028715568:android:8139ed475fde6f1ba6d7f5",
+        "android_client_info": {
+          "package_name": "com.example.sporthub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOQr35fPn6iWARTY5KX7ZDFAE5aA1Rv00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
